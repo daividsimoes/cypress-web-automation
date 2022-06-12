@@ -1,0 +1,7 @@
+.vscode
+.idea
+node_modules
+cypress/videos
+cypress/screenshots
+cypress/fixtures/example.json
+cypress/reports/*

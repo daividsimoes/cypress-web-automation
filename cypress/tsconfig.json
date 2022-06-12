@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "lib": [
+      "es2021"
+    ],
+    "types": [
+      "cypress"
+    ],
+    "allowJs": true
+  },
+  "include": [
+    "**/*.ts"
+  ]
+}
